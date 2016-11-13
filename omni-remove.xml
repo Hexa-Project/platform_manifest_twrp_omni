@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <remove-project name="android_art" />
+  <remove-project name="android_dalvik" />
+  <remove-project name="android_development" />
+  <remove-project name="android_device_generic_mini-emulator-armv7-a-neon" />
+  <remove-project name="android_external_doclava" />
+  <remove-project name="android_external_flac" />
+  <remove-project name="android_external_guava" />
+  <remove-project name="android_external_jhead" />
+  <remove-project name="android_external_libexif" />
+  <remove-project name="android_external_libnfc-nci" />
+  <remove-project name="android_external_llvm" />
+  <remove-project name="android_external_skia" />
+  <remove-project name="android_external_tinyalsa" />
+  <remove-project name="android_external_tinycompress" />
+  <remove-project name="android_frameworks_av" />
+  <remove-project name="android_frameworks_base" />
+  <remove-project name="android_frameworks_ex" />
+  <remove-project name="android_frameworks_opt_colorpicker" />
+  <remove-project name="android_frameworks_opt_net_ims" />
+  <remove-project name="android_frameworks_opt_net_voip" />
+  <remove-project name="android_frameworks_opt_net_wifi" />
+  <remove-project name="android_frameworks_opt_telephony" />
+  <remove-project name="android_frameworks_opt_timezonepicker" />
+  <remove-project name="android_frameworks_support" />
+  <remove-project name="android_frameworks_webview" />
+  <remove-project name="android_frameworks_wilhelm" />
+  <remove-project name="android_hardware_broadcom_libbt" />
+  <remove-project name="android_hardware_broadcom_wlan" />
+  <remove-project name="android_hardware_invensense" />
+  <remove-project name="android_hardware_libhardware" />
+  <remove-project name="android_hardware_qcom_audi" /> 
+  <remove-project name="android_hardware_qcom_bt" />
+  <remove-project name="android_hardware_qcom_media" />
+  <remove-project name="android_hardware_qcom_power" />
+  <remove-project name="android_hardware_qcom_wlan" /> 
+  <remove-project name="android_hardware_ril" /> 
+  <project name="android_packages_apps_Bluetooth" />
+  <project name="android_packages_apps_Calendar" />
+  <project name="android_packages_apps_Camera2" />
+  <project name="android_packages_apps_Contacts" />
+  <project name="android_packages_apps_ContactsCommon" />
+  <project name="android_packages_apps_Dialer" />
+  <project name="android_packages_apps_Email" />
+  <project name="android_packages_apps_Launcher3" />
+  <project name="android_packages_apps_Messaging" />
+  <project name="android_packages_apps_Nfc" />
+  <project name="android_packages_apps_PackageInstaller" />
+  <project name="android_packages_apps_QuickSearchBox" />
+  <project name="android_packages_apps_Settings" />
+  <project name="android_packages_apps_UnifiedEmail" />
+  <project name="android_packages_inputmethods_LatinIME" />
+  <project name="android_packages_providers_DownloadProvider" />
+  <project name="android_packages_providers_MediaProvider"/>
+  <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" remote="omnirom" revision="android-7.0" />
+  <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="omnirom" revision="android-7.0" />
+  <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="omnirom" revision="android-7.0" />
+  
+  
+  
+  
+  
+  
+  
+  
+   <remove-project name="" /> 
+   <remove-project name="" /> 
+  <remove-project name="" />  
+  <remove-project name="" />  
+  <remove-project name="" />  
+   <remove-project name="" /> 
+  <remove-project name="" />  
+  <remove-project name="" />  
+  <remove-project name="" />  
+  <remove-project name="" />  
+  <remove-project name="" />  
+   <remove-project name="" /> 
+   <remove-project name="" /> 
+  <remove-project name="" />  
+   <remove-project name="" /> 
+  <remove-project name="" />  
+  <remove-project name="" />  
+  <remove-project name="" />  
+   <remove-project name="" /> 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <remove-project name="android_packages_apps_Apollo" />
+  <remove-project name="android_packages_apps_DeskClock" />
+  <remove-project name="android_packages_apps_DSPManager" />
+  <remove-project name="android_packages_apps_FMRadio" />
+  <remove-project name="android_packages_apps_Gallery2" />
+  <remove-project name="android_packages_apps_MonthCalendarWidget" />
+  <remove-project name="android_packages_apps_OmniGears" />
+  <remove-project name="android_packages_services_OmniJaws" />
+  <remove-project name="android_packages_apps_OmniStyle" />
+  <remove-project name="android_packages_apps_OmniSwitch" />
+  <remove-project name="android_packages_apps_OpenDelta" />
+  <remove-project name="android_packages_apps_PerformanceControl" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </manifest>
